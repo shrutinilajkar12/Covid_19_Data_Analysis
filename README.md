@@ -6,8 +6,7 @@ A Python-based COVID-19 data analysis project that performs state-wise reporting
 
 # Overview
 
-This project performs state-wise COVID-19 data analysis using Python.
-
+This project performs state-wise COVID-19 data analysis using Python.  
 It analyzes confirmed, recovered, and deceased cases and generates graphical visualizations and Excel reports for better understanding of pandemic trends.
 
 ---
